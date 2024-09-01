@@ -10,4 +10,4 @@ RUN mkdir /N2ForwardBot
 WORKDIR /N2ForwardBot
 
 COPY . .
-CMD ["python", "bot.py"]
+CMD ["python", "main.py"]

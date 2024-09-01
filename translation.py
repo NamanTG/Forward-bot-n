@@ -19,7 +19,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @TonyStark_Botz</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -54,10 +54,10 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/TonyStark_Botz'>Tony Stark Botz</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Spider_Man_02'>Peter Parker</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @TonyStark_Botz"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
@@ -77,7 +77,7 @@ class Translation(object):
          
   TEXT = """<b><u>Forward Status</u></b>
   
-<b>🕵 Fetch Message :</b> <code>{}</code>
+<b>🕵 Fetched Message :</b> <code>{}</code>
 
 <b>✅ Successfully Forward :</b> <code>{}</code>
 
@@ -87,11 +87,11 @@ class Translation(object):
 
 <b>🪆 Skipped Message :</b> <code>{}</code>
 
-<b>🔁 Filtered Message :</b> <code>{}</code>
-
 <b>📊 Current Status :</b> <code>{}</code>
 
 <b>🔥 Percentage :</b> <code>{}</code> %
+
+<b>⏰ ETA :</b> <code>{}</code>
 
 {}
 """
