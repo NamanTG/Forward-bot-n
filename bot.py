@@ -63,7 +63,7 @@ class Bot(Client):
            await db.rmve_frwd(all=True)
            app = web.AppRunner(await web_server())
            await app.setup()
-           await web.TCPSite(app, "0.0.0.0", 10000).start()
+           await web.TCPSite(app, "0.0.0.0", 8080).start()
            logging.info(f"Restart message status"
                  f"success: {success}"
                  f"failed: {failed}")
